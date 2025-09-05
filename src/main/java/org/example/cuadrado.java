@@ -5,8 +5,8 @@ public class cuadrado {
     private double lado2;
 
     public cuadrado() {
-        this.lado1 = 5.3;
-        this.lado2 = 5.3;
+        this.lado1 = 3.5;
+        this.lado2 = 3.5;
     }
 
     public double area () {
